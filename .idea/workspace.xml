@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="315ce4c4-4c46-42d0-9f0b-65904282c33c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZRTaUr38cTLeMZE5ccxl69gxVV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lab2.TestEmployee" />
+      <module name="home_lab1_ex2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="315ce4c4-4c46-42d0-9f0b-65904282c33c" name="Default Changelist" comment="" />
+      <created>1584800969262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584800969262</updated>
+      <workItem from="1584800970807" duration="2333000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="714" y="65" key="#com.intellij.ide.util.MemberChooser" timestamp="1584814029855">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="714" y="65" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1584814029855" />
+    <state width="868" height="176" key="GridCell.Tab.0.bottom" timestamp="1584814249124">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="868" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1584814249124" />
+    <state width="868" height="176" key="GridCell.Tab.0.center" timestamp="1584814249124">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="868" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1584814249124" />
+    <state width="868" height="176" key="GridCell.Tab.0.left" timestamp="1584814249124">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="868" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1584814249124" />
+    <state width="868" height="176" key="GridCell.Tab.0.right" timestamp="1584814249124">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="868" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1584814249124" />
+  </component>
+</project>
